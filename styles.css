@@ -75,17 +75,29 @@ h2 {
 }
 
 #dayplanner {
-    height: 200px;
+    height: 175px;
+    /* width: 200px; */
 }
 
 #easicuisi{
-    height: 200px;
+    height: 175px;
+    /* width: 200px; */
 }
 
 #github {
-    height: 200px;
+    height: 175px;
+    /* width: 200px; */
 }
 
 #codequiz {
-    height: 200px;
+    height: 175px;
+    /* width: 200px; */
+}
+
+#notetaker {
+    height: 175px;
+}
+
+#developerprofile{
+    height: 175px;
 }
