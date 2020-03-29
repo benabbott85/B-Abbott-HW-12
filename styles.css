@@ -57,11 +57,15 @@ h2 {
     
 }
 
-.wrapper {
+.contact {
     border-style: solid;
     border-color: black;
     border-width: 2px;
     padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin-top: 150px;
+    margin-left: 350px;
 }
 
 .row1{
@@ -74,7 +78,7 @@ h2 {
     margin-left: -10px;
 }
 
-#dayplanner {
+#paul {
     height: 175px;
     /* width: 200px; */
 }
@@ -89,10 +93,7 @@ h2 {
     /* width: 200px; */
 }
 
-#codequiz {
-    height: 175px;
-    /* width: 200px; */
-}
+
 
 #notetaker {
     height: 175px;
@@ -100,4 +101,8 @@ h2 {
 
 #developerprofile{
     height: 175px;
+}
+
+h1 {
+   margin-left: 325px;
 }
